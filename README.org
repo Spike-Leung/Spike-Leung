@@ -1,1 +1,1 @@
-[[https://imgs.xkcd.com/comics/real_programmers.png]]
+<img alt="a webcomit form xkcd about Real Programmers" src="https://github.com/Spike-Leung/Spike-Leung/blob/master/real-programers.png?raw=true" width="100%">
