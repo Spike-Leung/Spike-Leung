@@ -1,1 +1,1 @@
-<img alt="a webcomit form xkcd about Real Programmers" src="https://github.com/Spike-Leung/Spike-Leung/blob/master/real-programers.png?raw=true" width="100%">
+<img alt="a webcomit form xkcd about Real Programmers" src="https://github.com/Spike-Leung/Spike-Leung/blob/trunk/real-programers.png?raw=true" width="100%">
