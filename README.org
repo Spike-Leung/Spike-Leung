@@ -1,4 +1,7 @@
+:PROPERTIES:
+:ID:       0D56E07F-2072-4B3C-AC39-C0852965A7F3
+:END:
 #+ATTR_HTML: :alt a webcomit form xkcd about Real Programmers
-[[https://github.com/Spike-Leung/Spike-Leung/blob/trunk/real-programers.png]]
+[[https://github.com/Spike-Leung/Spike-Leung/blob/trunk/real-programmers.png]]
 
 [[https://hands.sonnet.io/?room=caeabdce-43b9-41ef-ba2e-1a1e40b20e21][Let's Hold Hands!]] :)
